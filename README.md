@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-I am a **Senior Software Quality Assurance Engineer** with expertise in building scalable automation frameworks, executing complex test strategies, and ensuring seamless user experiences.
+Senior Software Quality Assurance Engineer with extensive experience in designing scalable automation frameworks, implementing robust test strategies, and delivering high-quality software with seamless user experiences. Skilled in Manual & Automation Testing, Web, Mobile, and API applications, with a proven track record of leading QA teams and driving continuous improvement in software quality.
 
 I’ve worked across **Fintech, Telecom, LMS, and Enterprise SaaS systems**, performing:
 
