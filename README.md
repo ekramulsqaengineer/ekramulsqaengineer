@@ -87,7 +87,7 @@ I’ve worked across **Fintech, Telecom, LMS, and Enterprise SaaS systems**, per
 ### 📬 Contact Me
 
 📧 Email: **ekramulcsediu2016@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/ekramulsqaengineer**  
+🔗 LinkedIn: **https://www.linkedin.com/in/ekramul-haque-65a567146**  
 💻 GitHub: **https://github.com/ekramulsqaengineer**
 
 ---
