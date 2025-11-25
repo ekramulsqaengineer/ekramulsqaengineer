@@ -1,65 +1,97 @@
-<h1 align="center">👋 Hi, I'm Md. Ekramul Haque</h1>
-<h3 align="center">Senior SQA Engineer | Automation Tester | QA Team Lead</h3>
+<!-- ====================== HEADER ======================= -->
 
----
-
-### 🧑‍💻 About Me
-
-I'm a passionate **Senior Software Quality Assurance Engineer** with over **7+ years of professional experience** in testing, automation, and QA process improvement.  
-I love building **test automation frameworks**, improving **product quality**, and helping teams release software faster and more reliably.
-
----
-
-### 🧪 Skills & Technologies
-
-#### ✔ Automation & Testing Tools  
-- Selenium WebDriver · Cypress · Playwright · Appium  
-- TestNG · JUnit · POM Framework  
-- Postman · Newman · Katalon · JMeter
-
-#### ✔ Languages  
-- Java · JavaScript
-
-#### ✔ Databases  
-- MySQL · MongoDB
-
-#### ✔ QA Practices  
-- Manual Testing · API Testing · Regression · Smoke · Sanity  
-- Performance Testing · Security Testing · Agile/Scrum  
-- CI/CD Pipeline Automation
-
-#### ✔ Security & Performance  
-- OWASP ZAP · Burp Suite
-
----
-
-### 🏆 Certifications & Achievements
-
-🏅 ISTQB Certified Tester (CTFL)  
-🏅 Best Employee Award – Arena Phone BD Ltd.  
-📌 Successful QA delivery on enterprise-scale Telecom, Finance & SaaS platforms  
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">👋 Hello, I'm <span style="color:#6C63FF">Md. Ekramul Haque</span></h1>
+<h3 align="center">Senior SQA Engineer | Automation Specialist | Quality Advocate</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ekramulsqaengineer&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ekramulsqaengineer&theme=radical" height="160" />
+🔍 Passionate about delivering high-quality software through automation, strategy, and continuous improvement.
 </p>
 
 ---
 
-### 🔗 Connect With Me
+<!-- ====================== BADGES ======================= -->
 
-📩 Email: **ekramulsqaengineer@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/ekramul-haque](https://www.linkedin.com/in/ekramul-haque-65a567146/)  
-💻 GitHub: [github.com/ekramulsqaengineer](https://github.com/ekramulsqaengineer)
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-SQA%20Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing-Automation%20|%20Manual-critical?style=for-the-badge" />
+</p>
 
 ---
 
-### 🚀 Fun Fact
+<!-- ====================== ABOUT ME ======================= -->
 
-> “Testing is not about finding bugs — it's about building confidence.”
+### 🚀 About Me
+
+I am a **Senior Software Quality Assurance Engineer** with expertise in building scalable automation frameworks, executing complex test strategies, and ensuring seamless user experiences.
+
+I’ve worked across **Fintech, Telecom, LMS, and Enterprise SaaS systems**, performing:
+
+- ✔ Test Automation (Web, API, Mobile)
+- ✔ Manual Testing (Regression, UAT, Functional)
+- ✔ Security & Performance Testing
+- ✔ CI/CD QA Integration & QA Strategy
+
+---
+
+<!-- ====================== TECH STACK ======================= -->
+
+### 🛠 Tech Stack & Tools
+
+| Category | Technologies |
+|----------|-------------|
+| **Automation** | Selenium · Cypress · Playwright · Appium · TestNG · JUnit |
+| **API Testing** | Postman · Newman · Rest Assured |
+| **Security & Performance** | OWASP ZAP · Burp Suite · JMeter |
+| **Languages** | Java · JavaScript |
+| **Databases** | MySQL · MongoDB |
+| **Version Control & CI/CD** | Git · GitHub · Jenkins |
+| **Methodologies** | Agile/Scrum · BDD · STLC · SDLC |
+
+---
+
+<!-- ====================== CERTIFICATIONS ======================= -->
+
+### 🏆 Certifications & Recognition
+
+- 🎓 **ISTQB Certified Tester (CTFL)**
+- 🥇 **Best Employee Award – Arena Phone BD Ltd**
+- 📌 Automation Framework Contributor in Multiple Projects
+
+---
+
+<!-- ====================== PROJECTS & IMPACT ======================= -->
+
+### 📌 Highlights & Career Impact
+
+- Built and optimized automation frameworks from scratch for enterprise-level platforms  
+- Reduced regression testing time by **60–80%** using automation  
+- Improved QA process, documentation, bug tracking, and CI/CD alignment  
+- Worked closely with DevOps, Developers, and Business teams to ensure product quality  
+
+---
+
+<!-- ====================== GITHUB STATS ======================= -->
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekramulsqaengineer&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekramulsqaengineer&theme=tokyonight" height="160" />
+</p>
+
+---
+
+<!-- ====================== CONTACT ======================= -->
+
+### 📬 Contact Me
+
+📧 Email: **ekramulsqaengineer@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/ekramulsqaengineer**  
+💻 GitHub: **https://github.com/ekramulsqaengineer**
+
+---
+
+<p align="center"><b>✦ “Quality isn't an act — it's a habit.” ✦</b></p>
 
 ---
