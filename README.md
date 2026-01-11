@@ -12,7 +12,7 @@
 <!-- ====================== BADGES ======================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Role-SQA%20Engineer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Testing-Automation%20|%20Manual-critical?style=for-the-badge" />
 </p>
